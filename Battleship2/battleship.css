@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    font-style: oblique;
+    text-align: center;
+}
+
+p {
+    color: rgb(14, 200, 247);
+    text-align: center
+}
+
+body {
+    background-color: orange
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
